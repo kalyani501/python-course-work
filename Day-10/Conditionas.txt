@@ -1,0 +1,44 @@
+*****17-08-26********
+
+CONTROL STATEMENTS:
+--MAKES THE DECISION(conditional statements)
+--iterate or repetitive(looping statements)
+--jumping statements(jumping statements)
+
+Conditional Statements
+-----------------------
+--simple if:
+if we have only one condition and one action
+indentation (:) is used to write code within the brach
+syntax:
+if cond:
+    #state
+--if else:
+if we have one condition and two actions
+Syntax:
+if condition:
+    #sttems t
+else:
+  #sts f
+--elif ladder:
+if we have more than one condition
+if condi1:
+    #sts1
+elif codion2:
+    #sta1
+elif cond3:
+    #sts3
+.....
+else(optional):
+     #sta
+
+--nested if:
+if we condition inside condition
+if condtion:
+   if condition:
+       #sta
+    else:
+       #sta
+elif con2:
+     #sta
+else:
